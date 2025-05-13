@@ -479,3 +479,4 @@ Extended Permissions mode on device must be enabled in some of the projects to a
 
 If you have any questions or need assistance, please don't hesitate to reach out. Our community is here to help, and you can connect with us and ask for support [here](https://www.reddit.com/r/Spectacles/). We look forward to hearing from you and are excited to assist you on your journey!
 
+# decentralized-app
