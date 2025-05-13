@@ -482,3 +482,4 @@ If you have any questions or need assistance, please don't hesitate to reach out
 # decentralized-app
 # decentralized-app
 # ar-navigation-spectacles
+# spectacles-navigation
