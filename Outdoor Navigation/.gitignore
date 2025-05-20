@@ -11,7 +11,6 @@ BackUp/**
 Workspaces/**
 .vscode/**
 jsconfig.json
-tsconfig.json
 .DS_Store
 *.lock
 
